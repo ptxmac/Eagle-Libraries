@@ -1,1 +1,3 @@
 Repository for Cadsoft Eagle library files
+
+Repository now contains a submodule for the Adafruit library.  If you clone it, remember to also do a 'git submodule init', or you won't be pulling the submodule.  I think - submodules are still black magic to me.
